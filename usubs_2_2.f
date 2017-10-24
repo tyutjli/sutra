@@ -459,6 +459,7 @@ C    （R)ELATIVE (P)ERMEABILITY DUE TO (F)ILM FLOW (RPF) [M/S]
 	   ELSE
 	   RPF=0.D0
 	   ENDIF
+C      HERE IS NEW INFO
 
 	  R E L K   = RELKC+(RPF*1.D-7/PMAX)
 C - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  UNSAT........12600
